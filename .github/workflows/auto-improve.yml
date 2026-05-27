@@ -41,5 +41,11 @@ jobs:
           git add -A
           git diff --cached --quiet || git commit -m "chore: automated maintenance $(date +%Y-%m-%d)"
 
-      - name: Push
-        run: git push
+      - name: Push (with retry)
+        run: |
+          git pull --rebase origin main
+          for i in 1 2 3; do
+            git push && break
+            echo "Push attempt $i failed, retrying in 10s..."
+            sleep 10
+          done
