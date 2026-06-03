@@ -98,13 +98,14 @@ pytest tests/ -v
 - **Pydantic v2** — request/response validation
 - **httpx** — async HTTP for VAST tag fetching
 - Python 3.12+
-<!-- Last updated: 2026-06-01
-<!-- Last updated: 2026-06-01
-<!-- Last updated: 2026-06-01
-<!-- Last updated: 2026-06-01
-<!-- Last updated: 2026-06-01
-<!-- Last updated: 2026-06-01
-<!-- Last updated: 2026-06-01
-<!-- Last updated: 2026-06-01
-<!-- Last updated: 2026-06-01
-<!-- Last updated: 2026-06-01 -->
+<!-- Last updated: 2026-06-03
+<!-- Last updated: 2026-06-03
+<!-- Last updated: 2026-06-03
+<!-- Last updated: 2026-06-03
+<!-- Last updated: 2026-06-03
+<!-- Last updated: 2026-06-03
+<!-- Last updated: 2026-06-03
+<!-- Last updated: 2026-06-03
+<!-- Last updated: 2026-06-03
+<!-- Last updated: 2026-06-03
+<!-- Last updated: 2026-06-03 -->
