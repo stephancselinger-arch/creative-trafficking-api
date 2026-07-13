@@ -98,33 +98,34 @@ pytest tests/ -v
 - **Pydantic v2** — request/response validation
 - **httpx** — async HTTP for VAST tag fetching
 - Python 3.12+
-<!-- Last updated: 2026-07-11
-<!-- Last updated: 2026-07-11
-<!-- Last updated: 2026-07-11
-<!-- Last updated: 2026-07-11
-<!-- Last updated: 2026-07-11
-<!-- Last updated: 2026-07-11
-<!-- Last updated: 2026-07-11
-<!-- Last updated: 2026-07-11
-<!-- Last updated: 2026-07-11
-<!-- Last updated: 2026-07-11
-<!-- Last updated: 2026-07-11
-<!-- Last updated: 2026-07-11
-<!-- Last updated: 2026-07-11
-<!-- Last updated: 2026-07-11
-<!-- Last updated: 2026-07-11
-<!-- Last updated: 2026-07-11
-<!-- Last updated: 2026-07-11
-<!-- Last updated: 2026-07-11
-<!-- Last updated: 2026-07-11
-<!-- Last updated: 2026-07-11
-<!-- Last updated: 2026-07-11
-<!-- Last updated: 2026-07-11
-<!-- Last updated: 2026-07-11
-<!-- Last updated: 2026-07-11
-<!-- Last updated: 2026-07-11
-<!-- Last updated: 2026-07-11
-<!-- Last updated: 2026-07-11
-<!-- Last updated: 2026-07-11
-<!-- Last updated: 2026-07-11
-<!-- Last updated: 2026-07-11 -->
+<!-- Last updated: 2026-07-13
+<!-- Last updated: 2026-07-13
+<!-- Last updated: 2026-07-13
+<!-- Last updated: 2026-07-13
+<!-- Last updated: 2026-07-13
+<!-- Last updated: 2026-07-13
+<!-- Last updated: 2026-07-13
+<!-- Last updated: 2026-07-13
+<!-- Last updated: 2026-07-13
+<!-- Last updated: 2026-07-13
+<!-- Last updated: 2026-07-13
+<!-- Last updated: 2026-07-13
+<!-- Last updated: 2026-07-13
+<!-- Last updated: 2026-07-13
+<!-- Last updated: 2026-07-13
+<!-- Last updated: 2026-07-13
+<!-- Last updated: 2026-07-13
+<!-- Last updated: 2026-07-13
+<!-- Last updated: 2026-07-13
+<!-- Last updated: 2026-07-13
+<!-- Last updated: 2026-07-13
+<!-- Last updated: 2026-07-13
+<!-- Last updated: 2026-07-13
+<!-- Last updated: 2026-07-13
+<!-- Last updated: 2026-07-13
+<!-- Last updated: 2026-07-13
+<!-- Last updated: 2026-07-13
+<!-- Last updated: 2026-07-13
+<!-- Last updated: 2026-07-13
+<!-- Last updated: 2026-07-13
+<!-- Last updated: 2026-07-13 -->
